@@ -1,0 +1,10 @@
+como crear un repositorio de github:
+
+los pasos a seguir son: 
+
+  -crear el repo en github
+  -git clone con el <url repo>
+  -crear un archivo con contenido (vim <nombre de archivo>)
+  -git add <archivo>
+  -git commit -m "<msj>"
+  -git push
